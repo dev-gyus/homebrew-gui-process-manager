@@ -1,6 +1,6 @@
 cask "gui-process-manager" do
   version "1.0.0"
-  sha256 "REPLACE_WITH_ACTUAL_SHA256"
+  sha256 "b5ce26ecbf1e040dcea77b29500ef94858a8e03a13edff5419fe96f610bcc3ce"
 
   url "https://github.com/dev-gyus/gui-process-manager/releases/download/v#{version}/GUI-Process-Manager-#{version}-arm64.dmg"
   name "GUI Process Manager"
